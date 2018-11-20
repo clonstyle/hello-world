@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Human!
+
+Vincent here, I like development & designing 
